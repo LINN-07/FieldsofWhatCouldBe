@@ -1,0 +1,13 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  
+  
+cursor: url('s.png') 60 0, auto;
+}
+
+canvas {
+  display: block;
+}
+
+
